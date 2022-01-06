@@ -121,4 +121,180 @@ font-weight: bolder;
     justify-content: center;
     
     }
+
+    
+                        
+.container{
+
+    display:flex;
+    
+      
+    }
+    
+    .card{
+    
+        width:40%;
+        margin:0px 80px;
+        background-color: coral;
+        box-shadow: 10px 10px 35px red;
+        border-radius: 10px;;
+        
+        }
+    
+        .card-pic{
+    
+           width:40%;
+           margin:0 80px;
+           background-color: darkmagenta;
+           box-shadow: 10px 10px 15px darkmagenta;
+           border-radius: 10px;
+
+    
+        }
+    
+        .card-dv{
+    
+            margin:opx 80px;
+            background-color: darkgreen;
+            box-shadow: 10px 10px 15px green;
+            border-radius: 10px;
+            }
+            
+
+        .cart-styling{
+    
+     text-align:center;
+     margin:0;
+     display: flex;
+    
+        }
+    
+   
+    .img-one{
+    
+    width:100px;
+    diplay:flex;
+    margin:0px 120px;
+    
+    
+    }
+    
+    .
+    .head{
+    
+    text-align:center;
+    justify-content: center;
+    
+    }
+    
+    
+    
+       .work{
+         width:50%;
+        padding-left:5%;
+        padding-top:6%;
+        padding-bottom: 5%;
+        margin-left:5%;
+    
+    
+       }
+    
+    h1{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+    }
+    
+       
+        .work img{
+    
+        width:80%;
+        padding-left:10%;
+        margin-bottom:20%;
+        
+    }
+    
+    .click{
+    
+    
+        text-decoration: none;;
+        background-image: linear-gradient(orange,red);
+        color:white;
+        padding:5px;
+        font-size:18px;
+        font-weight: bolder;
+    
+        
+    }
+    
+    .active{
+    
+        text-decoration: none;;
+        background-image:linear-gradient(cadetblue,yellowgreen);
+        color:white;
+        padding:5px;
+        font-size:18px;
+        font-weight: bolder;
+    
+    }
+            
+        .footr{
+    
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 0;
+    
+        }    
+    
+        .goal{
+    
+            font-family: 'Island Moments', cursive;
+            font-family: 'Roboto Slab', serif;
+            color:chocolate
+    
+        }
+
+        .section4{
+
+             display: flex;
+             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        }
+    
+    
+       .corona-form img{
+
+        width:60%;
+        margin:0 120px;
+        box-shadow: 10px 10px 20px gray;
+        border-radius: 10px;;
+
+       }
+
+       .viras{
+
+     color:goldenrod;
+
+       }
+
+       .vaccine{
+
+          background-image: linear-gradient(blue,cadetblue);
+          color:white;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          padding:2px;
+          font-weight: bolder;
+
+
+       }
+    
+    
+    
+    
+    
+    
+    
+    
     
