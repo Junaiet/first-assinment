@@ -32,12 +32,13 @@ padding-top:6%;
 .heading{
 
 font-size: 30px;
-border-left: 5px solid black;
+border-left: 5px solid rgb(60, 241, 14);
 
 }
+
 .design{
 
-color:darkcyan;
+color:red;
 
 }
 
@@ -48,6 +49,76 @@ background-image: linear-gradient(darkgray,rgb(194, 235, 14));
 color:white;
 padding:2px;
 font-size:18px;
+font-weight: bolder;
+
 
 }
 
+
+
+                        
+.container{
+
+    display:flex;
+    
+      
+    }
+    
+    .card{
+    
+        width:40%;
+        margin:0px 80px;
+        background-color: coral;
+        
+        
+        }
+    
+        .card-pic{
+    
+           width:40%;
+           margin:0 80px;
+           background-color: darkmagenta;
+    
+        }
+    
+        .cart-styling{
+    
+     text-align:center;
+     justify-content: center;
+     margin:0;
+     display: flex;
+    
+        }
+    
+        
+    .card-design{
+    
+    width:150px;
+    margin:0 50px;
+    background-color: red;
+    
+    }
+    
+    .img-one{
+    
+    width:100px;
+    diplay:flex;
+    margin:0px 120px;
+    
+    
+    }
+    
+    .card-dv{
+    
+    margin:opx 80px;
+    background-color: darkgreen;
+    
+    }
+    
+    .head{
+    
+    text-align:center;
+    justify-content: center;
+    
+    }
+    
